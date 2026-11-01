@@ -1,0 +1,12 @@
+# сборка
+build/
+dist/
+*.spec
+MouseBattery.exe
+
+# питон
+__pycache__/
+*.pyc
+
+# локальная статистика разряда
+stats.json
